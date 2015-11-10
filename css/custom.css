@@ -16,7 +16,7 @@ h3 {
 	font-size: 2em;
 }
 
-#section1, #section2. #section3, #section4, #section6, #section7, #section8 {
+#section1 {
 	display: block;
 	height: 100%;
 }

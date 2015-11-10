@@ -373,6 +373,14 @@
         width: 50%; } }
 /* 6. Styles for devices(<=991px ) */
 @media (max-width: 991px) {
+	.caption-wrapper h1{
+		font-size:3em;
+	}
+	
+	.caption-wrapper h2, .caption-wrapper h3{
+		font-size:1.2em;
+	}
+	
   .hidden-mobile {
     display: none !important; }
 
@@ -528,6 +536,15 @@
 /* 7. Styles for devices(>=768px and <= 991px) */
 /* 8. Styles for devices(<=767px ) */
 @media (max-width: 767px) {
+	
+	.caption-wrapper h1{
+		font-size:3.5em;
+	}
+	
+	.caption-wrapper h2{
+		font-size:1.3em;
+	}
+	
   #footer .back-to-top {
     left: 50%;
     margin-left: -25px; }
@@ -665,7 +682,7 @@
   .blog-posts.layout-timeline .iso-col-2 .iso-item {
     width: 100%; }
 
-  .page-title-container .banner .caption .caption-lg {
+  .page-title-container .banner .caption .caption-lg, {
     font-size: 5em; }
   .page-title-container .banner .caption .caption-sm {
     font-size: 1em; }
@@ -795,6 +812,13 @@
     padding: 10px; } }
 /* 9. Styles for devices(>=481px and <= 767px) */
 @media (min-width: 481px) and (max-width: 767px) {
+	.caption-wrapper h1{
+		font-size:2em;
+	}
+	
+	.caption-wrapper h2{
+		font-size:0.8em;
+	}
   .colors-section .logo-icon {
     max-width: 70%; }
 
@@ -805,6 +829,13 @@
     display: block !important; } }
 /* 10. Styles for devices(<=480px ) */
 @media (max-width: 480px) {
+	.caption-wrapper h1{
+		font-size:1.5em;
+	}
+	
+	.caption-wrapper h2{
+		font-size:0.5em;
+	}
   .hidden-xs {
     display: none !important; }
 

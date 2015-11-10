@@ -10205,65 +10205,6 @@ body.woocommerce select:not(.default-style) + .customSelect .customSelectInner:b
 #footer{
 	background-color:white;
 }
-#section5 img{
-	width:70%;
-	padding-left:300px;
-}
-
-#section5 .dot{
-	position:absolute;
-	width:36%;
-}
-
-#section5 .dot1{	
-	top:80px;
-	left: 125px;
-}
-
-#section5 .dot2{
-	top:150px;
-	left: 100px;
-}
-#section5 .dot3{
-	top:150px;
-	left: 155px;
-}
-#section5 .dot4{
-	top:260px;
-	left: 105px;
-}
-#section5 .dot5{
-	top:260px;
-	left: 155px;
-}
-#section5 .dot6{
-	top:400px;
-	left: 105px;
-}
-#section5 .dot7{
-	top:400px;
-	left: 195px;
-}
-#section5 .dot8{
-	top:530px;
-	left: 105px;
-}
-#section5 .dot9{
-	top:530px;
-	left: 175px;
-}
-#section5 .dot10{
-	top:630px;
-	left: 100px;
-}
-#section5 .dot11{
-	top:590px;
-	left: 145px;
-}
-#section5 .dot12{
-	top:80px;
-	left: 125px;
-}
 
 .overlay{
 	 background-color: #E2C714;

@@ -33,3 +33,74 @@ h3 {
 .parallax-overlay-1 {
     background-image: url("/images/overlay-pattern.png");
 }
+
+#dude {
+	display: block;
+	width: 50%;
+	margin: auto;
+}
+
+.col-sm-6 {
+	padding-left: 30px;
+}
+
+
+#dude-wrap > img{
+	width:70%;
+	padding-left:300px;
+}
+
+#section5 .dot{
+	position:absolute;
+	width:36%;
+}
+
+#section5 .dot1{	
+	top:80px;
+	left: 25px;
+}
+
+#section5 .dot2{
+	top:15px;
+	left: 00px;
+}
+#section5 .dot3{
+	top:15px;
+	left: 55px;
+}
+#section5 .dot4{
+	top:26px;
+	left: 05px;
+}
+#section5 .dot5{
+	top:26px;
+	left: 55px;
+}
+#section5 .dot6{
+	top:40px;
+	left: 05px;
+}
+#section5 .dot7{
+	top:40px;
+	left: 195px;
+}
+#section5 .dot8{
+	top:53px;
+	left: 05px;
+}
+#section5 .dot9{
+	top:53px;
+	left: 75px;
+}
+#section5 .dot10{
+	top:63px;
+	left: 00px;
+}
+#section5 .dot11{
+	top:59px;
+	left: 45px;
+}
+#section5 .dot12{
+	top:8px;
+	left: 25px;
+}

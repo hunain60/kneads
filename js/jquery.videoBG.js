@@ -49,7 +49,7 @@
     // get the wrapper
     var wrap = $.fn.videoBG.wrapper();
     wrap.height(options.height)
-      .width(options.width);
+      .width('100%');
 
     // if is a text replacement
     if (options.textReplacement) {
@@ -79,7 +79,7 @@
 
       // overlay wrapper
       wrap.height(options.height)
-        .width(options.width);
+        .width('100%');
 
       // video
       video.height(options.height)
@@ -129,7 +129,7 @@
       }
     }
 
-    $('body > .videoBG_wrapper').width(windowWidth).height(windowHeight);
+    $('body > .videoBG_wrapper').width('100%').height(windowHeight);
 
   };
 
@@ -326,7 +326,8 @@
     $wrap.addClass('videoBG_wrapper')
       .css('position','absolute')
       .css('top',0)
-      .css('left',0);
+      .css('left',0)
+	  .css('width','100%');
     return $wrap;
   };
 

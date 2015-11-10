@@ -46,6 +46,7 @@ sjq(document).ready(function($) {
 		fullscreen:true,
 		position:"fixed",
 		zIndex:-1,
+		
 		opacity:0.5
 		
 	});
